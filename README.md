@@ -1,11 +1,11 @@
 <h1>Introduction to Solana</h1>
 <h2>Project Overview</h3>
 <ul>
-    <li>[Node.js](https://nodejs.org/en/)</li>
-    <li>[Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)</li>
-    <li>[Anchor framewoek](https://project-serum.github.io/anchor/getting-started/introduction.html)</li>
-    <li>[Phantom solana wallet](https://phantom.app/)</li>
-    <li>[React](https://reactjs.org/)</li>
+    <li><a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
+    <li><a href="https://docs.solana.com/cli/install-solana-cli-tools" target="_blank">Solana Tool Suite</a></li>
+    <li><a href="https://project-serum.github.io/anchor/getting-started/introduction.html" target="_blank">Anchor framewoek</a></li>
+    <li><a href="https://phantom.app/" target="_blank">Phantom solana wallet</a></li>
+    <li><a href="https://reactjs.org/" target="_blank">React</a></li>
 </ul>
 
 <h2>Project Structure</h2>
