@@ -1,5 +1,10 @@
 <h1>Introduction to Solana</h1>
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nl0h25rp5h9ytg5wnrj7.png">
+
 <h2>Project Overview</h3>
+
+
 <ul>
     <li><a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
     <li><a href="https://docs.solana.com/cli/install-solana-cli-tools" target="_blank">Solana Tool Suite</a></li>
@@ -72,3 +77,4 @@ cd app && npm install
 ```sh
 npm start
 ```
+=======
